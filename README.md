@@ -1,7 +1,6 @@
 # Image-Indexing
 1.	Persiapan sebelum menjalankan dan mengkonfigurasi toolkit image search engine  
 -	clone toolkit https://github.com/kudeh/image-search-engine di komputer  
-$ git clone <link>  
 $ git clone https://github.com/kudeh/image-search-engine  
 <img width="491" alt="1" src="https://user-images.githubusercontent.com/49057899/66782912-fe7aa600-ef00-11e9-9b75-7a3a593a609f.png">
 
