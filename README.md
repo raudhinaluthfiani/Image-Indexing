@@ -14,9 +14,9 @@ $ sudo apt-get install python
 2.	Penginstalan requirements package pada toolkit  
 -	masuk ke dalam directory git yang telah diclone yaitu ‘image-search-engine’  
 $ cd image-search-engine  
-<img width="518" alt="2" src="https://user-images.githubusercontent.com/49057899/66782934-0c302b80-ef01-11e9-838a-06e82d3cedfa.png">
--	install requirements package   
-$ pip3 install -r requirements.txt (jika menggunakan python 3)    
+<img width="518" alt="2" src="https://user-images.githubusercontent.com/49057899/66782934-0c302b80-ef01-11e9-838a-06e82d3cedfa.png">  
+-	install requirements package  
+$ pip3 install -r requirements.txt (jika menggunakan python 3)  
 $ pip install -r requirements.txt (jika masih menggunakan python 2)   
 <img width="510" alt="3" src="https://user-images.githubusercontent.com/49057899/66783008-3a157000-ef01-11e9-9f7d-8ceb3b2b34f8.png">
 Jika terjadi error, bisa menggunakan syntaks lain seperti :  
